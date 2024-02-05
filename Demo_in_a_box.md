@@ -20,7 +20,7 @@ A resource manager template is a JavaScript Object Notation (JSON) file that def
 Here is:
 - Windows VM ARM Template https://github.com/TechieNat/SMB_Demo_in_a_box/blob/main/LinuxVM_B1S.json
 - Linux VM ARM Template  https://github.com/TechieNat/SMB_Demo_in_a_box/blob/main/LinuxVM_B1S.json
-- 
+
 ![image](https://github.com/TechieNat/SMB_Demo_in_a_box/assets/61152897/9939683a-8823-4037-a81b-c670d3dc3089)
 5. Complete the Resource Group, Admin Username and Admin Password, then **Review + Create**
   
