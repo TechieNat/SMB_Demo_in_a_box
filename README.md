@@ -1,7 +1,8 @@
 # SMB Demo in a box
 
-Repository created to promote the basic demos for SMB to escalate with Distis/resellers
-Base line of a demo based on Infrastructure is strating your practice with Azure VM, Windows and Linux, you can use the belos Azure Resource Manager Templates to deploy these kind of VM, it is important to have basic concepts about this deployments, some of the most important are listed below:
+Repository to promote the creation basic demos environment in a free Azure Subscription for SMB scenarios
+
+Base line of a demo based on Infrastructure is strating your practice with Azure VM, Windows and Linux, so can use the below Azure Resource Manager Templates to deploy them, it is important to have basic concepts about this deployments, some of them  arel listed here:
 
 A resource manager template is a JavaScript Object Notation (JSON) file that defines the infrastructure and configuration for your project. The template uses declarative syntax. In declarative syntax, you describe your intended deployment without writing the sequence of programming commands to create the deployment.
 
