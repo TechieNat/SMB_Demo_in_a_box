@@ -1,4 +1,4 @@
-# SMB_Demo_in_a_box
+# SMB Demo in a box
 
 Repository created to promote the basic demos for SMB to escalate with Distis/resellers
 Base line of a demo based on Infrastructure is strating your practice with Azure VM, Windows and Linux, you can use the belos Azure Resource Manager Templates to deploy these kind of VM, it is important to have basic concepts about this deployments, some of the most important are listed below:
