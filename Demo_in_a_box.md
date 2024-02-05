@@ -1,6 +1,6 @@
 # SMB Demo in a box
 
-Repository to promote the creation basic demo environment in a free Azure Subscription for SMB scenarios
+Repository to promote the creation of basic demo environment in a free Azure Subscription for SMB scenarios
 
 Base line of a demo based on Infrastructure is strating your practice with Azure VM, Windows and Linux, so can use the below Azure Resource Manager Templates to deploy them, it is important to have basic concepts about this deployments, some of them  arel listed here:
 
