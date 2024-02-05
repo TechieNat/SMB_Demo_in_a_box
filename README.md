@@ -6,7 +6,7 @@ Base line of a demo based on Infrastructure is strating your practice with Azure
 
 A resource manager template is a JavaScript Object Notation (JSON) file that defines the infrastructure and configuration for your project. The template uses declarative syntax. In declarative syntax, you describe your intended deployment without writing the sequence of programming commands to create the deployment.
 
-**Instructions to build the baseline of a demo, it couls be a Windows or Linux VM, or both, follow the steps:**
+**Instructions to build a demo, it could be a Windows VM, Linux VM, or both, follow the steps:**
 
 1. Create an** Azure Free Subscription** in the link here: https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0044p/
    
