@@ -10,7 +10,7 @@ A resource manager template is a JavaScript Object Notation (JSON) file that def
 
 1. Create an** Azure Free Subscription** in the link here: https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0044p/
    
-3. Confirm your access to "Deploy a custome template, using the search bar as below
+3. Confirm your access to **Deploy a custome template**, using the search bar as below:
    
 ![image](https://github.com/TechieNat/SMB_Demo_in_a_box/assets/61152897/644d24ad-f212-46f5-baf5-66fc997f9509)
 5. Clic on **Build your own template**
